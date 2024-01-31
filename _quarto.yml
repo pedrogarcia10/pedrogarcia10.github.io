@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Insight - Consultoria Estatística"
+  navbar:
+    left:
+      - href: page1.qmd
+        text: Início
+      - href: page2.qmd
+        text: Aplicações e Trabalhos
+      - href: page3.qmd
+        text: Sobre
+
+format:
+  html:
+    lang: pt
+    theme: darkly
+    css: styles.css
+    toc: true
+
+
+

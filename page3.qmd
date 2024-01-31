@@ -1,0 +1,23 @@
+---
+title: "Sobre"
+---
+
+## Sobre o Fundador {.justify}
+
+Antes de tudo, uma conta rápida.
+
+```{r}
+1 + 1
+```
+
+Meu nome é Pedro Garcia, sou fascinado por "números" desde criança, quando folheava a revista Placar, antes mesmo de saber o significado de estatística no qual fui saber somente aos meus 17 anos de idade, mas ainda sem saber o real poder dessa área, que descubro mais um pouco todos os dias.
+
+Além dessa paixão, gosto muito de Futebol, Esportes Eletrônicos, Música, Cinema e Gastronomia, e a todo tempo tento unir esses meus hobbies com Estatística.
+
+## Trajetória {.justify}
+
+Ao ingressar no curso de Bachalerado em Estatística na UFU (Universidade Federal Uberlândia) meu objetivo era me tornar Analista de Desempenho no Futebol, unindo minhas duas grandes paixões
+
+Porém durante o percurso algumas situações me levaram a outro caminho, onde uni minha perspicácia em Jogos com Estatística me tornando um Analista de Desempenho em eSports onde atuo até os dias atuais. Nesse trajeto passei por grandes equipes, iniciando na LOUD em 2021-2022, e com passagens pela Team Liquid (2022-2023), Vivo Keyd (2023) e atualmente novamente na Team Liquid.
+
+Saindo um pouco do âmbito do mercado de trabalho e aprofundando um pouco na área acadêmica, tive experiências como Monitor em algumas disciplinas, além de integrar um grupo denominado PET (Programa de Ensino Tutorial) que é encarregado de realizar atividades de ensino, pesquisa e extensão, dentro e fora da universidade. Assim sendo, obtive a oportunidade de ajudar na organização de eventos, elaborar e ministrar minicursos.

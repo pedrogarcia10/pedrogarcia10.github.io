@@ -1,0 +1,14 @@
+---
+title: "Aplicações e Trabalhos"
+editor: source
+---
+
+## Aplicações
+
+Em seguida comento algumas ideias de aplicações que podem ser feitas com a mágica da Estatística!
+
+-  Acompanhamento da Evolução de Corredores Amadores ou Profissionais por meio dos dados gerados do Smartwatch em conjunto com aplicativos como Strava, onde podemos visualizar a evolução a partir dos dados das corridas realizadas, como a velocidade por km, batimentos cardíacos por minuto e linkar com variáveis como qualidade de sono, stress, alimentação, tipo de tênis usado e etc. 
+
+## Trabalhos
+
+-  ...
